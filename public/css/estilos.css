@@ -1,0 +1,34 @@
+.bg-primary {
+  background-color: #ff907a !important; }
+
+.text-primary {
+  color: #ff907a !important; }
+
+.btn-primary {
+  color: #fff;
+  background-color: #ff907a !important;
+  border-color: #ff502e !important; }
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #ff502e !important; }
+
+.btn-primary:active {
+  background-color: #e02500 !important; }
+
+.btn-primary:focus {
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(255, 144, 122, 0.5) !important;
+          box-shadow: 0 0 0 0.2rem rgba(255, 144, 122, 0.5) !important; }
+
+html {
+  font-size: 16px; }
+
+body {
+  color: rgba(41, 41, 41, 0.836);
+  font-family: 'Open Sans', sans-serif; }
+
+.card:hover {
+  -webkit-box-shadow: 0 0 20px #0c0c0c3d;
+          box-shadow: 0 0 20px #0c0c0c3d; }
+
+/*# sourceMappingURL=estilos.css.map */

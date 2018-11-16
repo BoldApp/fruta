@@ -1,0 +1,101 @@
+[{
+    "id": 1,
+    "nombre": "Lechuga",
+    "precio": "$ 4.64",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 2,
+    "nombre": "Tomate",
+    "precio": "$ 8.45",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 3,
+    "nombre": "Berenjena",
+    "precio": "$ 2.67",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 4,
+    "nombre": "Zanahoria",
+    "precio": "$ 5.40",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 5,
+    "nombre": "Remolacha",
+    "precio": "$ 0.09",
+    "pic": "images/lechuga.jpgimages/lechuga.jpg"
+  }, {
+    "id": 6,
+    "nombre": "Champinion",
+    "precio": "$ 5.37",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 7,
+    "nombre": "Zapallo",
+    "precio": "$ 0.58",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 8,
+    "nombre": "Zapallito Verde",
+    "precio": "$ 7.93",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 9,
+    "nombre": "Calabaza",
+    "precio": "$ 4.78",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 10,
+    "nombre": "Brocoli",
+    "precio": "$ 7.74",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 11,
+    "nombre": "Manzana Roja",
+    "precio": "$ 1.52",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 12,
+    "nombre": "Banana",
+    "precio": "$ 6.92",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 13,
+    "nombre": "Uva",
+    "precio": "$ 9.35",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 14,
+    "nombre": "Manzana Verde",
+    "precio": "$ 0.19",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 15,
+    "nombre": "Mandarina",
+    "precio": "$ 6.02",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 16,
+    "nombre": "Kiwi",
+    "precio": "$ 1.33",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 17,
+    "nombre": "Sandia",
+    "precio": "$ 8.21",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 18,
+    "nombre": "Frutilla",
+    "precio": "$ 9.83",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 19,
+    "nombre": "Mango",
+    "precio": "$ 6.74",
+    "pic": "images/lechuga.jpg"
+  }, {
+    "id": 20,
+    "nombre": "Durazno",
+    "precio": "$ 9.96",
+    "pic": "images/lechuga.jpg"
+  }]
